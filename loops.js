@@ -1,12 +1,11 @@
 function forLoop(array) {
-  for (let i = 0; i < 25; i++){
+  for (let i = 0; i < 25; i++) {
     if (i === 1) {
       console.log(`${array} I am 1 strange loop.`);
     } else {
-      console.log(`${array} I am ${} strange loops.`);
+      console.log(`${array} I am ${i} strange loops.`);
     }
   }
 }
 
 forLoop(array);
- 

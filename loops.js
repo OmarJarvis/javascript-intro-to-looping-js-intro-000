@@ -5,7 +5,7 @@ function forLoop(array) {
     } else {
       console.log(`${array} I am ${} strange loops.`);
     }
-  }  
+  }
 }
 
 forLoop(array);

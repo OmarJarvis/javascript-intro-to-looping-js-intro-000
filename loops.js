@@ -9,6 +9,6 @@ function forLoop(arr) {
     }
   }
 
-  // Return your array
+
   return arr;
 }

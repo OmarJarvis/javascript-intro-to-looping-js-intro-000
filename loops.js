@@ -12,3 +12,11 @@ function forLoop(heyy) {
 
   return heyy;
 }
+
+function whileLoop(n) {
+  while (countdown > 0) {
+    console.log( --n);
+  }
+  return 'done';
+}
+
